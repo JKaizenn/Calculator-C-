@@ -1,32 +1,25 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\jforb\\OneDrive\\Documents\\Development\\C# Projects\\Calculator App\\Calculator\\Calculator.csproj": {}
+    "/Users/jessenforbush/Documents/Development/C# Projects/Calculator/Calculator-CSharp/Calculator/Calculator.csproj": {}
   },
   "projects": {
-    "C:\\Users\\jforb\\OneDrive\\Documents\\Development\\C# Projects\\Calculator App\\Calculator\\Calculator.csproj": {
+    "/Users/jessenforbush/Documents/Development/C# Projects/Calculator/Calculator-CSharp/Calculator/Calculator.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\jforb\\OneDrive\\Documents\\Development\\C# Projects\\Calculator App\\Calculator\\Calculator.csproj",
+        "projectUniqueName": "/Users/jessenforbush/Documents/Development/C# Projects/Calculator/Calculator-CSharp/Calculator/Calculator.csproj",
         "projectName": "Calculator",
-        "projectPath": "C:\\Users\\jforb\\OneDrive\\Documents\\Development\\C# Projects\\Calculator App\\Calculator\\Calculator.csproj",
-        "packagesPath": "C:\\Users\\jforb\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\jforb\\OneDrive\\Documents\\Development\\C# Projects\\Calculator App\\Calculator\\obj\\",
+        "projectPath": "/Users/jessenforbush/Documents/Development/C# Projects/Calculator/Calculator-CSharp/Calculator/Calculator.csproj",
+        "packagesPath": "/Users/jessenforbush/.nuget/packages/",
+        "outputPath": "/Users/jessenforbush/Documents/Development/C# Projects/Calculator/Calculator-CSharp/Calculator/obj/",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\jforb\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "/Users/jessenforbush/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -39,11 +32,6 @@
           "warnAsError": [
             "NU1605"
           ]
-        },
-        "restoreAuditProperties": {
-          "enableAudit": "true",
-          "auditLevel": "low",
-          "auditMode": "direct"
         }
       },
       "frameworks": {
@@ -65,7 +53,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.403/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/opt/homebrew/Cellar/dotnet/8.0.10/libexec/sdk/8.0.110/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

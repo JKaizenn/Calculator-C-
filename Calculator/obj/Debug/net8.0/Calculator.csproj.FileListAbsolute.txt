@@ -1,14 +1,29 @@
-C:\Users\jforb\OneDrive\Documents\Development\C# Projects\Calculator App\Calculator\bin\Debug\net8.0\Calculator.exe
-C:\Users\jforb\OneDrive\Documents\Development\C# Projects\Calculator App\Calculator\bin\Debug\net8.0\Calculator.deps.json
-C:\Users\jforb\OneDrive\Documents\Development\C# Projects\Calculator App\Calculator\bin\Debug\net8.0\Calculator.runtimeconfig.json
-C:\Users\jforb\OneDrive\Documents\Development\C# Projects\Calculator App\Calculator\bin\Debug\net8.0\Calculator.dll
-C:\Users\jforb\OneDrive\Documents\Development\C# Projects\Calculator App\Calculator\bin\Debug\net8.0\Calculator.pdb
-C:\Users\jforb\OneDrive\Documents\Development\C# Projects\Calculator App\Calculator\obj\Debug\net8.0\Calculator.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\jforb\OneDrive\Documents\Development\C# Projects\Calculator App\Calculator\obj\Debug\net8.0\Calculator.AssemblyInfoInputs.cache
-C:\Users\jforb\OneDrive\Documents\Development\C# Projects\Calculator App\Calculator\obj\Debug\net8.0\Calculator.AssemblyInfo.cs
-C:\Users\jforb\OneDrive\Documents\Development\C# Projects\Calculator App\Calculator\obj\Debug\net8.0\Calculator.csproj.CoreCompileInputs.cache
-C:\Users\jforb\OneDrive\Documents\Development\C# Projects\Calculator App\Calculator\obj\Debug\net8.0\Calculator.dll
-C:\Users\jforb\OneDrive\Documents\Development\C# Projects\Calculator App\Calculator\obj\Debug\net8.0\refint\Calculator.dll
-C:\Users\jforb\OneDrive\Documents\Development\C# Projects\Calculator App\Calculator\obj\Debug\net8.0\Calculator.pdb
-C:\Users\jforb\OneDrive\Documents\Development\C# Projects\Calculator App\Calculator\obj\Debug\net8.0\Calculator.genruntimeconfig.cache
-C:\Users\jforb\OneDrive\Documents\Development\C# Projects\Calculator App\Calculator\obj\Debug\net8.0\ref\Calculator.dll
+C:/Users/jforb/OneDrive/Documents/Development/C# Projects/Calculator App/Calculator/bin/Debug/net8.0/Calculator.exe
+C:/Users/jforb/OneDrive/Documents/Development/C# Projects/Calculator App/Calculator/bin/Debug/net8.0/Calculator.deps.json
+C:/Users/jforb/OneDrive/Documents/Development/C# Projects/Calculator App/Calculator/bin/Debug/net8.0/Calculator.runtimeconfig.json
+C:/Users/jforb/OneDrive/Documents/Development/C# Projects/Calculator App/Calculator/bin/Debug/net8.0/Calculator.dll
+C:/Users/jforb/OneDrive/Documents/Development/C# Projects/Calculator App/Calculator/bin/Debug/net8.0/Calculator.pdb
+C:/Users/jforb/OneDrive/Documents/Development/C# Projects/Calculator App/Calculator/obj/Debug/net8.0/Calculator.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/jforb/OneDrive/Documents/Development/C# Projects/Calculator App/Calculator/obj/Debug/net8.0/Calculator.AssemblyInfoInputs.cache
+C:/Users/jforb/OneDrive/Documents/Development/C# Projects/Calculator App/Calculator/obj/Debug/net8.0/Calculator.AssemblyInfo.cs
+C:/Users/jforb/OneDrive/Documents/Development/C# Projects/Calculator App/Calculator/obj/Debug/net8.0/Calculator.csproj.CoreCompileInputs.cache
+C:/Users/jforb/OneDrive/Documents/Development/C# Projects/Calculator App/Calculator/obj/Debug/net8.0/Calculator.dll
+C:/Users/jforb/OneDrive/Documents/Development/C# Projects/Calculator App/Calculator/obj/Debug/net8.0/refint/Calculator.dll
+C:/Users/jforb/OneDrive/Documents/Development/C# Projects/Calculator App/Calculator/obj/Debug/net8.0/Calculator.pdb
+C:/Users/jforb/OneDrive/Documents/Development/C# Projects/Calculator App/Calculator/obj/Debug/net8.0/Calculator.genruntimeconfig.cache
+C:/Users/jforb/OneDrive/Documents/Development/C# Projects/Calculator App/Calculator/obj/Debug/net8.0/ref/Calculator.dll
+/Users/jessenforbush/Documents/Development/C# Projects/Calculator/Calculator-CSharp/Calculator/bin/Debug/net8.0/Calculator
+/Users/jessenforbush/Documents/Development/C# Projects/Calculator/Calculator-CSharp/Calculator/bin/Debug/net8.0/Calculator.deps.json
+/Users/jessenforbush/Documents/Development/C# Projects/Calculator/Calculator-CSharp/Calculator/bin/Debug/net8.0/Calculator.runtimeconfig.json
+/Users/jessenforbush/Documents/Development/C# Projects/Calculator/Calculator-CSharp/Calculator/bin/Debug/net8.0/Calculator.dll
+/Users/jessenforbush/Documents/Development/C# Projects/Calculator/Calculator-CSharp/Calculator/bin/Debug/net8.0/Calculator.pdb
+/Users/jessenforbush/Documents/Development/C# Projects/Calculator/Calculator-CSharp/Calculator/obj/Debug/net8.0/Calculator.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jessenforbush/Documents/Development/C# Projects/Calculator/Calculator-CSharp/Calculator/obj/Debug/net8.0/Calculator.AssemblyInfoInputs.cache
+/Users/jessenforbush/Documents/Development/C# Projects/Calculator/Calculator-CSharp/Calculator/obj/Debug/net8.0/Calculator.AssemblyInfo.cs
+/Users/jessenforbush/Documents/Development/C# Projects/Calculator/Calculator-CSharp/Calculator/obj/Debug/net8.0/Calculator.csproj.CoreCompileInputs.cache
+/Users/jessenforbush/Documents/Development/C# Projects/Calculator/Calculator-CSharp/Calculator/obj/Debug/net8.0/Calculator.sourcelink.json
+/Users/jessenforbush/Documents/Development/C# Projects/Calculator/Calculator-CSharp/Calculator/obj/Debug/net8.0/Calculator.dll
+/Users/jessenforbush/Documents/Development/C# Projects/Calculator/Calculator-CSharp/Calculator/obj/Debug/net8.0/refint/Calculator.dll
+/Users/jessenforbush/Documents/Development/C# Projects/Calculator/Calculator-CSharp/Calculator/obj/Debug/net8.0/Calculator.pdb
+/Users/jessenforbush/Documents/Development/C# Projects/Calculator/Calculator-CSharp/Calculator/obj/Debug/net8.0/Calculator.genruntimeconfig.cache
+/Users/jessenforbush/Documents/Development/C# Projects/Calculator/Calculator-CSharp/Calculator/obj/Debug/net8.0/ref/Calculator.dll
